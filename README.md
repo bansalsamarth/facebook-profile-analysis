@@ -1,6 +1,6 @@
 # facebook-profile-analysis
 
-Replicable code for my blog post where I downloaded my Facebook data and analysed the how I use the social networking platform. 
+Replicable code for my blog post where I downloaded my Facebook data and analysed my usage patterns. 
 
 Here is the link: [Seven charts that show how I used Facebook over the years](https://medium.com/@bansalsamarth/seven-charts-that-show-how-i-used-facebook-over-the-years-bc7e8b3b5170)
 
